@@ -1,0 +1,53 @@
+{
+  "name": "rixco",
+  "version": "0.0.1",
+  "description": "Rixco — A icon set for designers and developers. 250+ line-style icons with stroke-based, customizable design.",
+  "license": "MIT",
+  "author": {
+    "name": "Jan Klever",
+    "email": "hi@janklever.com",
+    "url": "https://janklever.work"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janklever/rixco"
+  },
+  "bugs": {
+    "url": "https://github.com/janklever/rixco/issues"
+  },
+  "homepage": "https://rixco.cc",
+  "keywords": [
+    "icons",
+    "icon-set",
+    "icon-font",
+    "svg",
+    "webfont",
+    "design-system",
+    "brazilian",
+    "minimalist",
+    "line-style",
+    "stroke",
+    "ui-icons"
+  ],
+  "main": "dist/rixco.js",
+  "types": "dist/rixco.d.ts",
+  "files": [
+    "dist",
+    "src",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "dev": "echo 'Development mode'",
+    "build": "echo 'Build process coming soon'",
+    "test": "echo 'Tests coming soon'"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {},
+  "dependencies": {},
+  "publishConfig": {
+    "access": "public"
+  }
+}
